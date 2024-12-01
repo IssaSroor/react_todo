@@ -1,4 +1,4 @@
-/* .card{
+.card{
   border: 1px solid black;
   border-radius: 10px;
   box-shadow: 5px 5px 5px rgb(2, 2, 2);
@@ -30,7 +30,7 @@
   color: black;
 }
 
- */
+
  body{
   background-color: lightgray;
  }
@@ -101,4 +101,4 @@ li{
   padding: 8px 12px;
   font-size: 1.4rem;
   margin-left: 10px ;
-}
+} 
